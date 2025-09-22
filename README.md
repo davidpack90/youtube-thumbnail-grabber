@@ -32,7 +32,6 @@ The [YouTube Thumbnail Grabber](https://sanishtech.com/tools/youtube-thumbnail-g
 ---
 
 ## Example Screenshot
-![YouTube Thumbnail Grabber Demo] 
 <img width="1393" height="1397" alt="YouTube Thumbnail Grabber Demo" src="https://github.com/user-attachments/assets/9d04d0b7-4b3d-44ad-a3f8-5719b94191ff" />
 
 ---
@@ -63,6 +62,11 @@ Yes, the tool works perfectly on Android and iOS browsers.
 
 ## Try It Here
 👉 [Open the YouTube Thumbnail Grabber](https://sanishtech.com/tools/youtube-thumbnail-grabber/)
+
+## Related Tools
+- [YouTube Channel Logo Downloader](https://sanishtech.com/tools/youtube-channel-logo-downloader/)  
+- [YouTube Channel Banner Downloader](https://sanishtech.com/tools/youtube-channel-banner-downloader/)  
+
 
 ---
 
